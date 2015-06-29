@@ -1,0 +1,14 @@
+{
+  "name": "language-modula-2",
+  "version": "0.0.1",
+  "description": "Modula-2 language support for Atom",
+  "keywords": [
+  ],
+  "repository": "https://github.com/despinoUY/language-modula-2",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
